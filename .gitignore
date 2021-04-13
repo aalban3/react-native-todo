@@ -8,6 +8,9 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-
+server/api/certificate/*
 # macOS
 .DS_Store
+
+#express
+.env
